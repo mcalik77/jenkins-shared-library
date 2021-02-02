@@ -1,4 +1,4 @@
-def call (Integer age=10){
-    realAge = age +10
-    echo "Hello + ${age} + ${realAge}"
+def call (Integer bornYear=2000){
+    age = 2021 - bornYear
+    echo "Your age is  + ${realAge}"
 }
